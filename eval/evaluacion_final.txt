@@ -1,0 +1,132 @@
+El packing list es:
+A) Documento con la relación de albaranes entregados al operario.
+B) Documento con la relación de albaranes entregados al transportista.
+C) Documento con la relación de albaranes entregados al jefe de alamacén.
+D) Documento con la relación de albaranes entregados al proveedor.
+ANSWER:  B
+
+La verificación de pedidos en el momento de prepararlos no asegura el ahorre de costes ya que no se evita la verificación en las fases posteriores:
+A) Verdadero.
+B) Falso.
+ANSWER: B
+
+En la preparación de pedidos manual de contenedor a contenido:
+A) El operario no se desplaza con un contenedor en el que va recogiendo las materias necesarias para cada pedido.
+B) El contenedor se desplaza automáticamente y va recogiendo las materias necesarias para cada pedido.
+C) El operario se desplaza con un contenedor en el que va recogiendo las materias necesarias para cada pedido.
+D) Ninguna es correcta.
+ANSWER: C
+
+Para evitar que en la bodega de un medio de transporte queden espacios libres es recomendable:
+A) Que el volumen de la mercancía sea regular.
+B) Que el operario apriete con fuerza la carga al hacer la estiba.
+C) No colocar mercancías que peligrosas.
+D) No cargar alimentos.
+ANSWER: A
+
+Un alimento que, en razón de su composición, características físico-químicas y biológicas, pueda experimentar alteración de diversa naturaleza en un tiempo determinado, se denomina:
+A) Contaminado.
+B) No perecedero.
+C) Perecedero.
+D) Contaminado.
+ANSWER: C
+
+¿Cuál es el tipo de embalaje que agrupa varias unidades del embalaje primario?:
+A) Embalaje primario agrupado.
+B) Embalaje primario.
+C) Embalaje secundario.
+D) Embalaje terciario.
+ANSWER: C
+
+¿Cómo se denominan las cajas automontables?:
+A) Caja envolvente.
+B) Caja dispensadora de líquidos.
+C) Cajas de fondo automático.
+D) Bandeja.
+ANSWER: C
+
+¿Cómo se evitan cortes?:
+A) Usando la herramienta correcta.
+B) Cogiendo las tijeras por la parte cortante.
+C) Cogiendo trozos de embalaje cortantes con las manos.
+D) Todas son correctas.
+ANSWER: A
+
+Si se manipula algo con las manos mientras se está de pie el área de manipulación no debe estar demasiado bajo respecto a los codos y no debe existir espacio para los pies:
+A) Verdadero.
+B) Falso.
+ANSWER: B
+
+¿Qué normas regulan la simbología básica de productos y mercancías?:
+A) Normas ISO 780.
+B) Normas ISO 7000.
+C) Normas ISO 78 y 700.
+D) Normas ISO 780 y 7000.
+ANSWER: D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
