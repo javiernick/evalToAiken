@@ -1,0 +1,3 @@
+# evalToAiken
+
+node autoeval.js
