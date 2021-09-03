@@ -143,6 +143,9 @@ function StartWatcher(path){
     })
     .on('change', function(path) {
          console.log('Archivo', path, 'ha sido cambiado');
+         if (path.includes(".htm")){
+            toAiken(path);               
+      }
     })
     .on('unlink', function(path) {
          console.log('Archivo', path, 'ha sido removido');
