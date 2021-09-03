@@ -7,7 +7,7 @@ const RUTA_FOLDER = './eval/';
 
 
 
-const toAkien = async (archivo) => {
+const toAiken = async (archivo) => {
 
     const lineReader = require('line-reader');
 
@@ -105,7 +105,7 @@ const getFicheros = ( ruta ) => {
         //console.log(txtFiles);
         
         txtFiles.forEach(element => {        
-            toAkien(ruta+element);
+            toAiken(ruta+element);
         });
 
     });
@@ -134,7 +134,7 @@ function StartWatcher(path){
     .on('add', function(path) {
           console.log('Archivo', path, 'ha sido agregado');
           if (path.includes(".htm")){
-                toAkien(path);               
+                toAiken(path);               
           }
     })
     .on('addDir', function(path) {
